@@ -136,9 +136,16 @@ Ranking de mayor cantidad de vuelos.
 
 🧍‍♀️ Valores nulos o atípicos: La presencia de ~6.000 vuelos con “0 pasajeros” requiere revisión — probablemente vuelos técnicos o de carga.
 
+![Presentación2](https://github.com/user-attachments/assets/8d72c739-a1f1-47b2-9f57-558835e5ec16)
+
+
 🗓️ Patrones temporales: La actividad se concentra en días hábiles y en horarios diurnos, indicando uso comercial y regular.
 
 🏆 Aeropuertos principales: Los más activos corresponden a grandes hubs (Ezeiza, Aeroparque, Córdoba, Mendoza).
+
+![Presentación1](https://github.com/user-attachments/assets/0c549f15-6eb8-4ac2-8ac5-c6d8280ce719)
+
+
 
 📈 Distribución de pasajeros: La mayoría de los vuelos comerciales transportan entre 50 y 150 pasajeros, con distribución unimodal.
 
